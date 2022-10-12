@@ -10,17 +10,41 @@
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <meta name="description" content="">
 
-<link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+	<meta name="author" content="Sigourney Philotes Kunst">
 <title></title>
 </head>
 
 <body>
 
+<header style="text-align: center;">
+	
+	
+	<p>Sigourney Philotes Kunst</p>
+	
+	</header>
+
+	<nav>
+
+	<a href="index.html">Foyer</a>
+	
+	<a href="about.html">About</a>
+
+	<a href="writing.html">Words</a>
+
+	</nav>
+
 
 </body>
 
-<footer></footer>
+<footer>
+
+Copyright Sigourney P Kunst 2022-.  <p>
+
+Do whatever the fuck you want with the source, 
+I ripped it off others anyway 
+
+</footer>
 
 </html>
